@@ -1,0 +1,9 @@
+{
+  "name": "redux-star",
+  "version": "1.0.0",
+  "description": "Redux middleware for generators",
+  "main": "index.js",
+  "repository": "https://github.com/joshdover/redux-star",
+  "author": "Josh Dover <me@joshdover.com>",
+  "license": "MIT"
+}

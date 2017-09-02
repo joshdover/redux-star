@@ -46,6 +46,8 @@ const ActionCreators = {
 That's it! Now you can use async/await easily, and remove the need to be returning functions from
 your action creators (like in redux-thunk).
 
+[See the complete demo](https://github.com/joshdover/redux-star-demo/blob/master/src/index.js).
+
 ## Configuration
 
 ```
